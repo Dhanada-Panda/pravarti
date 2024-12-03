@@ -7,7 +7,8 @@ An e-commerce platform built using the MERN stack (MongoDB, Express.js, React.js
 Authentication:
 Admin can sign up and sign in securely.
 
-![admin-signin](https://github.com/user-attachments/assets/1dddfeaa-e055-4258-b88f-ccff718b5811)
+![admin-after-signin](https://github.com/user-attachments/assets/439b37ca-a850-4ce9-9007-49f09922661d)
+
 
 Profile Management:
 Update admin profile details.
