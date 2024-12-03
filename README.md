@@ -6,15 +6,14 @@ An e-commerce platform built using the MERN stack (MongoDB, Express.js, React.js
 <h3>Admin Panel:</h3>
 Authentication:
 Admin can sign up and sign in securely.
-![admin-after-signin](https://github.com/user-attachments/assets/6e03a2fd-d4c8-49cf-a22a-c8749b8b9c12)
 
+![admin-signin](https://github.com/user-attachments/assets/1dddfeaa-e055-4258-b88f-ccff718b5811)
 
 Profile Management:
 Update admin profile details.
 Category Management:
 Create, update, and delete product categories.
 
-![admin-create-category](https://github.com/user-attachments/assets/54b9a43a-2a2b-43ae-abea-b5c944eb58e1)
 
 
 Product Management:
